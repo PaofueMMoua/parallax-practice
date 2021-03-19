@@ -1,1 +1,12 @@
-s
+#parallaxOne {
+     background-image: url('../img/Mixed-forest.jpg');
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     height:100%;
+}
+
+#parallax-section {
+    background-color: rgba(0, 0, 0, .5);
+}
